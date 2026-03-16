@@ -166,8 +166,6 @@ Future improvements may include:
 
 (Insert Video Link Here)
 
-Example:
-https://drive.google.com/your-video-link
 
 
 **13. Team Members**
